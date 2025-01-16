@@ -1,0 +1,22 @@
+SAI: Carlos Sainz Jr., Ferrari, Spain, #55
+STR: Sebastian Vettel, Aston Martin, Germany, #5
+MAG: Mick Schumacher, Haas, Germany, #47
+NOR: Lando Norris, McLaren, United Kingdom, #4
+PER: Sergio Perez, Red Bull Racing, Mexico, #11
+VER: Max Verstappen, Red Bull Racing, Netherlands, #33
+RIC: Daniel Ricciardo, AlphaTauri, Australia, #3
+RUS: George Russell, Mercedes, United Kingdom, #63
+HAM: Lewis Hamilton, Mercedes, United Kingdom, #44
+BOT: Valtteri Bottas, Alfa Romeo, Finland, #77
+ZHO: Zhou Guanyu, Alfa Romeo, China, #24
+ALB: Alexander Albon, Williams, Thailand, #23
+LAT: Nicholas Latifi, Williams, Canada, #6
+TSU: Yuki Tsunoda, AlphaTauri, Japan, #22
+HUL: Nico Hulkenberg, Haas, Germany, #27
+GIO: Antonio Giovinazzi, Alfa Romeo, Italy, #99
+KIM: Kimi Raikkonen, Alfa Romeo, Finland, #7
+ALO: Fernando Alonso, Alpine, Spain, #14
+LEC: Charles Leclerc, Ferrari, Monaco, #16
+OCO: Esteban Ocon, Alpine, France, #31
+PIA: Pierre Gasly, Alpine, France, #10
+SAR: Robert Kubica, Alfa Romeo, Poland, #88
